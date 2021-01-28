@@ -14,5 +14,5 @@
 
 ## Output :
 
-[!plot1](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1.png)
-[!plot2](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1b.png)
+[!plot1](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1.png?raw=true)
+[!plot2](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1b.png?raw=true)
