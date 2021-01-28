@@ -2,16 +2,17 @@
 
 ## Task :
 
-For a given dataset: (1,1.2), (2,1.9), (3,3.2)
-Find the line which fits the data using maximum likelihood function. Plot the line with the given dataset and also take value of beta=1
+1. Draw 10 sample from Gaussian distribution of mean =5 and variance = 1
+2. Draw likelihood function for mean between 0 to 10. (Keep var = 1 constant)
 
 ## How I implemented it in short :
 
-1) Differentiated the likelihood function , found out gradient inn terms of w  (since the only parameters that could change was w , rest all were constant)
-2) Then equated the gradient = 0 ( close-form solution also could've applied gradient descent)
-3) Solved for w0 and w1 (since it was given that we had to fit  a line)
-4) Then plotted the points and the line as given below
+1) I wrote a gausian function ( also np.norm could've done the work :) ) 
+2) I then took  10 x values (0-10) , got some 10 y values
+3) Then keeping the points constant , I found  out different curves by changing values of mean
+4) Then plotted the Likelihood curves also finally plotted a Likelihood v/s Mean plot
 
 ## Output :
 
-[!plot](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-2/tutorial-2.png?raw=true)
+[!plot1](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1.png)
+[!plot2](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-1/tutorial-1b.png)
