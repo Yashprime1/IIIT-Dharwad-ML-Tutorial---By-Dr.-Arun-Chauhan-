@@ -14,4 +14,4 @@ Find the line which fits the data using maximum likelihood function. Plot the li
 
 ## Output :
 
-[! result](https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-2/tutorial-2.png)
+(https://github.com/Yashprime1/ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-2/tutorial-2.png)
