@@ -18,5 +18,5 @@ Hint: You can define 2 dimensional grid uniformly between -1 and +1 on x-aix and
 ## Output :
 
 [!plot1](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-3/Bayesian_Regression.png?raw=true)
-[!plot2](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-3/Bayesian_Regression.png?raw=true)
+[!plot2](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-3/10_points.png?raw=true)
 
