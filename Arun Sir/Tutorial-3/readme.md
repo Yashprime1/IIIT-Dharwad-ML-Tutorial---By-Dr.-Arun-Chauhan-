@@ -12,6 +12,7 @@ Hint: You can define 2 dimensional grid uniformly between -1 and +1 on x-aix and
 3) Later a driver code which will plot the curves
 4) In driver code , I made a loop for 10 data points generated in step 1 and calculated likelihood grid for each new point added and then multiplied it with prior grid to generate posterior grid and then changed my new posterior grid to prior to act as a prior for next point.
 5) Now to plot the 3rd Column in the given 3.7 figure , I needed to pick (w0,w1) points from posterior distribution randomly so I calculated the mean and variance of that seperately in a function called pick_10_lines.
+6) Here , in pick_10_lines the passed values of m0,s0,Beta(mean and variance of prior grid, precision in noise added to true data) and calculated mn,sn(mean and variance of posterior distribution) and for next iteration I needed to make m0=mn and s0=sn ( :) Because of point 4) )
 
 
 ## Output :
