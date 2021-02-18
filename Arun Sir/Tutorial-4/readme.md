@@ -8,7 +8,7 @@ Plot 10 samples from the posterior distribution estimated in previous tutorial
 
 1) Here , in pick_10_lines the passed values of m0,s0,Beta(mean and variance of prior grid, precision in noise added to true data) and calculated mn,sn(mean and variance of posterior distribution) and for next iteration I needed to make m0=mn and s0=sn (Because next time the posterior grid will become my prior)
 2) In pick_10_lines after getting mn,sn (mean & covariance) of Posterior Gausian distribution , I have made use of library function to generate 10 (w0,w1) points
-3) Plotted the mn valu in 3rd column
+3) Plotted the line for mn(w0,w1) in 3rd column as a line
 4) Plotted the heatmap for covariance of different  Posterior distributions
 
 ## Output :
