@@ -18,5 +18,5 @@ PS: You need to approximately reproduce the same figure 6.3 from PRML.
 
 ## Output :
 
-[!plot1](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-5/kernel_regression?raw=true)
-[!plot2](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-5/training_data?raw=true)
+[!plot1](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-5/kernel_regression.png?raw=true)
+[!plot2](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-5/training_data.png?raw=true)
