@@ -16,3 +16,5 @@ Plot Predicted Function using Gaussian Process of Kernel Regression
 
 [!plot1](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-6/gaussian_process.jpeg?raw=true)
 [!plot2](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-6/training_dataset.jpeg?raw=true)
+[!plot3](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-6/cn+1.jpeg?raw=true)
+[!plot4](https://github.com/Yashprime1/IIIT-Dharwad-ML-Tutorial---By-Dr.-Arun-Chauhan-/blob/main/Arun%20Sir/Tutorial-6/main_fig.jpeg?raw=true)
